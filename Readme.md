@@ -1,4 +1,1 @@
-chai aur backend series
-
-This is a video series on backend with javascript
-
+learned about backend through the chai and code backend series
